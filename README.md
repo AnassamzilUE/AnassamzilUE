@@ -86,13 +86,7 @@ Evaluation of the CARE-GNN model to detect concealed financial fraud on Amazon &
 </p>
 </div>
 
-<div style="border: 1px solid #e1e4e8; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;">
-<h4 style="color: #0366d6; margin-top: 0;">3. Multi-task Image Recognition Optimization</h4>
-<p style="font-size: 0.9em;">
-Optimization of multi-task image recognition using Hypernetworks on the dSprites dataset.
-</p>
-</div>
-</div>
+
 
 ---
 
