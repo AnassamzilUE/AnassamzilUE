@@ -98,7 +98,7 @@ Optimization of multi-task image recognition using Hypernetworks on the dSprites
   </tr>
   <tr>
     <td width="100" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Universit%C3%A9_Paris-Saclay_%28externe%29.svg" width="80" alt="Paris-Saclay Logo">
+      <img src="https://evenements.lepoint.fr/wp-content/uploads/UPS-1-300x300.png">
     </td>
     <td>
       <strong>Master's in Autonomous Systems</strong><br>
