@@ -30,8 +30,7 @@ I am a highly motivated Data Scientist with a specialization in
 <p>
 My expertise lies in translating complex challenges into actionable insights through 
 <strong style="color: #4CAF50;">process automation, data visualization, and predictive modeling</strong>. 
-I am driven by the opportunity to apply my skills to innovative projects, 
-particularly within the professional sports sector, to strategically structure and enhance data value.
+I am driven by the opportunity to apply my skills to innovative projects.
 </p>
 
 ### 🛠️ Technical Skills
@@ -90,7 +89,7 @@ Optimization of multi-task image recognition using Hypernetworks on the dSprites
 <table>
   <tr>
     <td width="100" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Universit%C3%A9_Paris_8_Logo_2024.svg" width="80" alt="Paris 8 Logo">
+      <img src="[https://upload.wikimedia.org/wikipedia/commons/2/29/Universit%C3%A9_Paris_8_Logo_2024.svg"width="80"alt="Paris8Logo(https://upload.wikimedia.org/wikipedia/commons/c/cd/Paris_VIII.svg)">
     </td>
     <td>
       <strong>Master's in AI Engineering (I2A)</strong> (Work-Study)<br>
