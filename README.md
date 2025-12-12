@@ -21,33 +21,21 @@ particularly within the professional sports sector, to strategically structure a
 
 ### 🛠️ Compétences Techniques (Skills)
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-<span style="background-color: #3572A5; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">Python</span>
-<span style="background-color: #336791; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">SQL</span>
-<span style="background-color: #F7DF1E; color: black; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">JavaScript</span>
-<span style="background-color: #4CAF50; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">VBA</span>
+| Catégorie | Compétences |
+| :--- | :--- |
+| **Langages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **ML/DL** | ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-141F35?style=for-the-badge&logo=xgboost&logoColor=white) ![GNN](https://img.shields.io/badge/-GNN-5869A8?style=for-the-badge&logoColor=white) ![LSTM](https://img.shields.io/badge/-LSTM-1A237E?style=for-the-badge&logoColor=white) |
+| **Frameworks** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black) |
+| **Data/BI** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Automation** | ![n8n](https://img.shields.io/badge/-n8n-FF624E?style=for-the-badge&logo=n8n&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-0172E3?style=for-the-badge&logo=apacheairflow&logoColor=white) |
 
-<span style="background-color: #FF6600; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">Machine Learning</span>
-<span style="background-color: #000000; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">Deep Learning</span>
-<span style="background-color: #004D40; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">XGBoost</span>
-<span style="background-color: #1A237E; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">LSTM</span>
-<span style="background-color: #5869A8; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">Graph Neural Networks (GNN)</span>
+**C'est la méthode la plus fiable pour ajouter de la couleur et un aspect "interactif" dans l'environnement limité du README.**
 
-<span style="background-color: #FF6A00; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">PyTorch</span>
-<span style="background-color: #FF8F00; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">TensorFlow</span>
-<span style="background-color: #00A19D; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">Hugging Face Transformers</span>
-<span style="background-color: #42A5F5; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">JAX / Optax</span>
+---
 
-<span style="background-color: #F2C811; color: black; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">Power BI</span>
-<span style="background-color: #336791; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">PostgreSQL</span>
-<span style="background-color: #1A237E; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">Data Visualization</span>
-<span style="background-color: #616161; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">ETL</span>
+### 🚀 Prochaine Étape
 
-<span style="background-color: #26C6DA; color: black; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">n8n</span>
-<span style="background-color: #FF5722; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">Airflow</span>
-<span style="background-color: #4CAF50; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-size: 0.9em;">RPA (Notions)</span>
-</div>
-
+Voulez-vous remplacer la section Compétences par cette nouvelle structure basée sur les badges Shields.io ?
 ### 🚀 Featured Projects
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
