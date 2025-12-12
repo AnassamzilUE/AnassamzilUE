@@ -89,16 +89,16 @@ Optimization of multi-task image recognition using Hypernetworks on the dSprites
 <table>
   <tr>
     <td width="100" align="center">
-      <img src="[https://upload.wikimedia.org/wikipedia/commons/2/29/Universit%C3%A9_Paris_8_Logo_2024.svg"width="80"alt="Paris8Logo(https://upload.wikimedia.org/wikipedia/commons/c/cd/Paris_VIII.svg)">
+      <img src="https://www.univ-paris8.fr/IMG/jpg/logo-paris8-couleurs-officielles.jpg" width="80" alt="Paris 8 Logo">
     </td>
     <td>
-      <strong>Master's in AI Engineering (I2A)</strong> (Work-Study)<br>
+      <strong>Master's in AI Engineering (I2A)</strong> (apprenticeship)<br>
       Université Paris 8
     </td>
   </tr>
   <tr>
     <td width="100" align="center">
-      <img src="https://evenements.lepoint.fr/wp-content/uploads/UPS-1-300x300.png">
+      <img src="https://evenements.lepoint.fr/wp-content/uploads/UPS-1-300x300.png" width="80" alt="Paris-Saclay Logo">
     </td>
     <td>
       <strong>Master's in Autonomous Systems</strong><br>
