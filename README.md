@@ -65,7 +65,7 @@ I am driven by the opportunity to apply my skills to innovative projects.
 | **ML / DL** | ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white) ![GNN](https://img.shields.io/badge/-GNN-5869A8?style=for-the-badge&logoColor=white)|
 | **Frameworks** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)|
 | **Data & BI** | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)|
-| **Auto & Tools** | ![n8n](https://img.shields.io/badge/-n8n-FF624E?style=for-the-badge&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/-Make-000000?style=for-the-badge&logo=make&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+| **Auto & Tools** | ![n8n](https://img.shields.io/badge/-n8n-FF624E?style=for-the-badge&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/-Make-000000?style=for-the-badge&logo=make&logoColor=white)|
 
 
 ### 🚀 Featured Projects
