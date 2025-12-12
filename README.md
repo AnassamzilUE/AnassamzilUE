@@ -60,7 +60,7 @@ Optimization of multi-task image recognition using Hypernetworks on the dSprites
 ### 📜 Certifications
 
 * 🏆 **[Certificate of completion: AI Fluency for students](https://www.linkedin.com/in/anass-amzil-128632153/details/certifications/)**
-* 🏆 **[Introduction to Model Context Protocol]([https://verify.skilljar.com/c/fmdfmexpbizf](https://www.linkedin.com/in/anass-amzil-128632153/details/certifications/))**
+* 🏆 **[Introduction to Model Context Protocol](https://www.linkedin.com/in/anass-amzil-128632153/details/certifications/)**
 
 ### 🗣️ Languages
 
