@@ -23,11 +23,11 @@ particularly within the professional sports sector, to strategically structure a
 
 | Catégorie | Compétences |
 | :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **ML/DL** | ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-141F35?style=for-the-badge&logo=xgboost&logoColor=white) ![GNN](https://img.shields.io/badge/-GNN-5869A8?style=for-the-badge&logoColor=white) ![LSTM](https://img.shields.io/badge/-LSTM-1A237E?style=for-the-badge&logoColor=white) |
+| **Langages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **ML/DL** | ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white) ![GNN](https://img.shields.io/badge/-GNN-5869A8?style=for-the-badge&logoColor=white) !|
 | **Frameworks** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black) |
-| **Data/BI** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Automation** | ![n8n](https://img.shields.io/badge/-n8n-FF624E?style=for-the-badge&logo=n8n&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-0172E3?style=for-the-badge&logo=apacheairflow&logoColor=white) |
+| **Data/BI** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Automation** | ![n8n](https://img.shields.io/badge/-n8n-FF624E?style=for-the-badge&logo=n8n&logoColor=white) |
 
 **C'est la méthode la plus fiable pour ajouter de la couleur et un aspect "interactif" dans l'environnement limité du README.**
 
