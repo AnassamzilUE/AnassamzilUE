@@ -56,6 +56,7 @@ I am driven by the opportunity to apply my skills to innovative projects.
     </td>
   </tr>
 </table>
+
 ### 🛠️ Technical Skills
 
 | Category | Tools & Languages |
