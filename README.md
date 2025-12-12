@@ -33,6 +33,29 @@ My expertise lies in translating complex challenges into actionable insights thr
 I am driven by the opportunity to apply my skills to innovative projects.
 </p>
 
+
+### 🎓 Education
+
+<table>
+  <tr>
+    <td width="100" align="center">
+      <img src="https://www.univ-paris8.fr/IMG/jpg/logo-paris8-couleurs-officielles.jpg" width="80" alt="Paris 8 Logo">
+    </td>
+    <td>
+      <strong>Master's in AI Engineering (I2A)</strong> (apprenticeship)<br>
+      Université Paris 8
+    </td>
+  </tr>
+  <tr>
+    <td width="100" align="center">
+      <img src="https://evenements.lepoint.fr/wp-content/uploads/UPS-1-300x300.png" width="80" alt="Paris-Saclay Logo">
+    </td>
+    <td>
+      <strong>Master's in Autonomous Systems</strong><br>
+      Université Paris-Saclay
+    </td>
+  </tr>
+</table>
 ### 🛠️ Technical Skills
 
 | Category | Tools & Languages |
@@ -42,6 +65,7 @@ I am driven by the opportunity to apply my skills to innovative projects.
 | **Frameworks** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)|
 | **Data & BI** | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)|
 | **Auto & Tools** | ![n8n](https://img.shields.io/badge/-n8n-FF624E?style=for-the-badge&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/-Make-000000?style=for-the-badge&logo=make&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+
 
 ### 🚀 Featured Projects
 
@@ -82,27 +106,4 @@ Optimization of multi-task image recognition using Hypernetworks on the dSprites
 * **English:** Professional Proficiency
 * **German:** Elementary Proficiency (B1)
 
----
 
-### 🎓 Education
-
-<table>
-  <tr>
-    <td width="100" align="center">
-      <img src="https://www.univ-paris8.fr/IMG/jpg/logo-paris8-couleurs-officielles.jpg" width="80" alt="Paris 8 Logo">
-    </td>
-    <td>
-      <strong>Master's in AI Engineering (I2A)</strong> (apprenticeship)<br>
-      Université Paris 8
-    </td>
-  </tr>
-  <tr>
-    <td width="100" align="center">
-      <img src="https://evenements.lepoint.fr/wp-content/uploads/UPS-1-300x300.png" width="80" alt="Paris-Saclay Logo">
-    </td>
-    <td>
-      <strong>Master's in Autonomous Systems</strong><br>
-      Université Paris-Saclay
-    </td>
-  </tr>
-</table>
