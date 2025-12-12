@@ -59,7 +59,7 @@ Optimization of multi-task image recognition using Hypernetworks on the dSprites
 
 ### 📜 Certifications
 
-* 🏆 **[Certificate of completion: AI Fluency for students](https://verify.skilljar.com/c/y9mrymgosi7b)**
+* 🏆 **![Certificate of completion: AI Fluency for students](https://verify.skilljar.com/c/y9mrymgosi7b)**
 * 🏆 **[Introduction to Model Context Protocol](https://verify.skilljar.com/c/fmdfmexpbizf)**
 
 ### 🗣️ Languages
