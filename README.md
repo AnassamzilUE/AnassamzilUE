@@ -59,8 +59,8 @@ Optimization of multi-task image recognition using Hypernetworks on the dSprites
 
 ### 📜 Certifications
 
-* 🏆 **[Databricks Lakehouse Fundamentals](https://verify.skilljar.com/c/y9mrymgosi7b)** - *View Verification*
-* 🏆 **[Generative AI Fundamentals](https://verify.skilljar.com/c/fmdfmexpbizf)** - *View Verification*
+* 🏆 **[Certificate of completion:AIFluencyforstudents[https://verify.skilljar.com/c/y9mrymgosi7b(https://verify.skilljar.com/c/y9mrymgosi7b))**- *View Verification*
+* 🏆 **[Introduction to Model Context Protocol]([https://verify.skilljar.com/c/fmdfmexpbizf](https://verify.skilljar.com/c/fmdfmexpbizf))** - *View Verification*
 
 ### 🗣️ Languages
 
