@@ -21,21 +21,14 @@ particularly within the professional sports sector, to strategically structure a
 
 ### 🛠️ Compétences Techniques (Skills)
 
-| Catégorie | Compétences |
+| Catégorie | Outils & Langages |
 | :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **ML/DL** | ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white) ![GNN](https://img.shields.io/badge/-GNN-5869A8?style=for-the-badge&logoColor=white) !|
-| **Frameworks** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black) |
-| **Data/BI** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Automation** | ![n8n](https://img.shields.io/badge/-n8n-FF624E?style=for-the-badge&logo=n8n&logoColor=white) |
+| **Langages** | ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F00000?style=for-the-badge&logo=oracle&logoColor=white) ![VBA](https://img.shields.io/badge/-VBA-2A478F?style=for-the-badge&logo=visualbasic&logoColor=white) |
+| **ML / DL** | ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-141F35?style=for-the-badge&logo=xgboost&logoColor=white) ![GNN](https://img.shields.io/badge/-GNN-5869A8?style=for-the-badge&logoColor=white) ![LSTM](https://img.shields.io/badge/-LSTM-1A237E?style=for-the-badge&logoColor=white) |
+| **Frameworks** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black) ![JAX](https://img.shields.io/badge/-JAX-00C4FF?style=for-the-badge&logo=google&logoColor=white) |
+| **Data & BI** | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![ETL](https://img.shields.io/badge/-ETL-4479A1?style=for-the-badge&logoColor=white) |
+| **Auto & Tools** | ![n8n](https://img.shields.io/badge/-n8n-FF624E?style=for-the-badge&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/-Make-000000?style=for-the-badge&logo=make&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
 
-**C'est la méthode la plus fiable pour ajouter de la couleur et un aspect "interactif" dans l'environnement limité du README.**
-
----
-
-### 🚀 Prochaine Étape
-
-Voulez-vous remplacer la section Compétences par cette nouvelle structure basée sur les badges Shields.io ?
 ### 🚀 Featured Projects
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
@@ -48,7 +41,7 @@ Mise en place d'un pipeline de traitement des données internes et externes pour
 <p style="font-size: 0.8em; font-style: italic;">
 **Tools:** Hugging Face Transformers, PostgreSQL, Talend.
 </p>
-<a href="[Your RAG Project Repo Link Here]" style="text-decoration: none; color: #0077b6; font-weight: bold;">View Repository →</a>
+<a href="[Link to Project 1]" style="text-decoration: none; color: #0077b6; font-weight: bold;">View Repository →</a>
 </div>
 
 <div style="border: 1px solid #e1e4e8; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;">
@@ -57,20 +50,20 @@ Mise en place d'un pipeline de traitement des données internes et externes pour
 Évaluation du modèle CARE-GNN pour détecter des fraudes financières dissimulées sur des jeux de données Amazon & Yelp.
 </p>
 <p style="font-size: 0.8em; font-style: italic;">
-**Tools:** PyTorch Geometric, Graph Neural Networks, Reinforcement Learning.
+**Tools:** PyTorch Geometric, GNN, Reinforcement Learning.
 </p>
-<a href="[Your GNN Project Repo Link Here]" style="text-decoration: none; color: #0077b6; font-weight: bold;">View Repository →</a>
+<a href="[Link to Project 2]" style="text-decoration: none; color: #0077b6; font-weight: bold;">View Repository →</a>
 </div>
 
 <div style="border: 1px solid #e1e4e8; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;">
-<h4 style="color: #0366d6; margin-top: 0;">3. Optimisation de la reconnaissance d'images (Hypernetworks)</h4>
+<h4 style="color: #0366d6; margin-top: 0;">3. Optimisation de la reconnaissance d'images</h4>
 <p style="font-size: 0.9em;">
 Optimisation de la reconnaissance d'images multi-tâches à l'aide d'Hypernetworks sur le jeu de données dSprites.
 </p>
 <p style="font-size: 0.8em; font-style: italic;">
 **Tools:** PyTorch, TensorFlow, LeNet, Resnet18.
 </p>
-<a href="[Your Hypernetworks Project Repo Link Here]" style="text-decoration: none; color: #0077b6; font-weight: bold;">View Repository →</a>
+<a href="[Link to Project 3]" style="text-decoration: none; color: #0077b6; font-weight: bold;">View Repository →</a>
 </div>
 </div>
 
@@ -79,19 +72,22 @@ Optimisation de la reconnaissance d'images multi-tâches à l'aide d'Hypernetwor
 ### 💼 Expérience Professionnelle (Experience)
 
 **Stage PFE - Data Viz et Machine Learning (en cours) | Teamwill**
-* [cite_start]Developed interactive dashboards for advanced data visualization and analysis using **Power BI**[cite: 11].
-* [cite_start]Automated analytical processes via workflows, leveraging tools like **n8n and Airflow**[cite: 12].
-* [cite_start]Advanced data manipulation using Python, **XGBoost, LSTM**, and **PostgreSQL**[cite: 13].
+* Development of interactive dashboards for advanced data visualization using **Tableau**.
+* Automation of analytical workflows using **n8n** and **Make**.
+* Advanced data manipulation using Python, **XGBoost, LSTM**, and **PostgreSQL**.
+
+**Stage Migration et Réconciliation de données (3 mois) | Teamwill**
+* Participation in data migration between systems and implementation of reconciliation procedures to ensure data integrity.
 
 ### 🎓 Formation (Education)
 
-* **Master Ingénierie en Intelligence Artificielle (I2A)** (Alternance) | [cite_start]Université Paris 8 [cite: 18, 19, 22]
-* **Master Systèmes Autonomiques** | [cite_start]Université Paris-Saclay [cite: 20, 23, 21]
+* **Master Ingénierie en Intelligence Artificielle (I2A)** (Alternance) | Université Paris 8
+* **Master Systèmes Autonomiques** | Université Paris-Saclay
 
 ### 🌐 Connect with me
 
 <p style="font-size: 1.1em;">
 <a href="mailto:anasamzil408@gmail.com" style="margin-right: 15px; text-decoration: none; color: #C71610; font-weight: bold;">📧 Email</a>
-<a href="www.linkedin.com/in/anass-amzil-128632153" style="margin-right: 15px; text-decoration: none; color: #0077b6; font-weight: bold;">🔗 LinkedIn</a>
+<a href="https://www.linkedin.com/in/anass-amzil-128632153" style="margin-right: 15px; text-decoration: none; color: #0077b6; font-weight: bold;">🔗 LinkedIn</a>
 <a href="https://github.com/AnassamzilUE" style="text-decoration: none; color: #171515; font-weight: bold;">💻 GitHub</a>
 </p>
